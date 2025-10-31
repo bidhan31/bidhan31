@@ -11,6 +11,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidhan31&theme=github_dark)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=bidhan31&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bidhan31&theme=github-dark-blue)
+
+
+
 
 ### 🧠 My Programming Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhanbormon&layout=compact&theme=radical)
