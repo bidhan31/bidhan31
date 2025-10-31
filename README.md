@@ -9,7 +9,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidhan31&theme=github_dark)
 
 
 ### 🧠 My Programming Languages:
