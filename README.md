@@ -19,10 +19,10 @@
 
 
 ### 🧠 My Programming Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhanbormon&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhan31&layout=compact&theme=radical)
 
 ### 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhanbormon&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhan31&show_icons=true&theme=radical)
 
 ---
 
