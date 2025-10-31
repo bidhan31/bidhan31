@@ -9,6 +9,9 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark)
+
+
 ### 🧠 My Programming Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhanbormon&layout=compact&theme=radical)
 
