@@ -1,14 +1,28 @@
+<!-- Profile Banner (Optional GIF) -->
+<p align="center">
+  <img src="https://i.imgur.com/9fjxM9B.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Bidhan</h1>
 <h3 align="center">Frontend Developer | CS Student | Tech Enthusiast</h3>
 
 ---
 
 ### 🌍 I live in Bangladesh and I love building Web Projects  
+### 🔍 Currently searching for **Frontend Developer Internship** & **Entry-Level Job Opportunities**  
 ### 📫 Reach me here:
 <p>
- 
-  <a href="https://www.linkedin.com/in/bidhan-bormon-5436752b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bidhanbormon08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/your_number" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,7 +44,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structure-28A745?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithm-FF5733?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge"/>
@@ -46,6 +60,44 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+### Here are some of my works:
+- 🔹 **JobSeekerBD** — Job Portal Web App  
+- 🔹 **Upskill** — Learning Platform  
+- 🔹 **My Portfolio** — Personal Developer Portfolio  
+- 🔹 **Weather App (Tkinter + ML + A*)**  
+- 🔹 **Personal Finance Dashboard** — HTML/CSS/JS Project  
+
+> Want your projects listed with live demo buttons? Just tell me ⭐
+
+---
+
+# 📊 GitHub Analytics
+
+### 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" height="165"/>
+</p>
+
+### 📈 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" height="165"/>
+</p>
+
+### 📊 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/yourgithubusername/count.svg" />
 </p>
 
 ---
