@@ -23,11 +23,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### **Educational / Other Tools**
+---
+
+## 🎓 Educational / Other Skills
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structure-28A745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithm-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-00A86B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
