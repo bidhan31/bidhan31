@@ -1,32 +1,59 @@
-<h1 align="center">Hi 👋, I'm Bidhan Bormon</h1>
-<h3 align="center">Self-learner, Web Developer & Tech Enthusiast</h3>
-
-- 🔭 I’m currently working on **Personal Finance Dashboard Project**
-- 🌱 I’m learning **React, Node.js, and Machine Learning**
-- 👯 I’m looking to collaborate on **Web and ML projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- 📫 How to reach me: **bidhanbormon@gmail.com**
+<h1 align="center">Hi there 👋, I'm Bidhan</h1>
+<h3 align="center">Frontend Developer | CS Student | Tech Enthusiast</h3>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidhan31&theme=github_dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bidhan31&theme=onedark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bidhan31&theme=github-dark-blue)
-
-
-
-
-### 🧠 My Programming Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhan31&layout=compact&theme=radical)
-
-### 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhan31&show_icons=true&theme=radical)
+### 🌍 I live in Bangladesh and I love building Web Projects  
+### 📫 Reach me here:
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🌐 Connect with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube)](https://youtube.com/@yourchannel)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook)](https://facebook.com/yourprofile)
+## 🛠️ I'm currently working with...
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### **Educational / Other Tools**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 I'm currently learning...
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</p>
+
+---
+
+## ✍️ Sometimes I write here...
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎵 Hobbies
+<p>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+</p>
+
+---
