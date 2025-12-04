@@ -1,6 +1,6 @@
 <!-- Profile Banner (Optional GIF) -->
 <p align="center">
-  <img src="https://i.imgur.com/9fjxM9B.gif" width="100%" />
+  <img src="https://i.imgur.com/9fjxM9B.gif](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Bidhan</h1>
