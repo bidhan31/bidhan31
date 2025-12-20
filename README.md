@@ -8,7 +8,7 @@
 
 ---
  
-### Currently I have joined as a frontend developer, at Bitopia Group's softvence agency.**  
+###  I have joined as a Frontend Developer, at Bitopia Group's Softvence Agency.  
 
 ---
 
