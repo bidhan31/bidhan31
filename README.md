@@ -8,7 +8,7 @@
 
 ---
  
-### 🔍 Currently searching for **Internship** & **Entry-Level Job Opportunities**  
+### Currently I have joined as a frontend developer, at Bitopia Group's softvence agency.**  
 
 ---
 
