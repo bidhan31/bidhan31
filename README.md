@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Bidhan</h1>
-<h3 align="center">Frontend Developer | CS Student | Tech Enthusiast</h3>
+<h3 align="center">Web Developer | CS Student | Tech Enthusiast | Software Engineer</h3>
 
 ---
  
