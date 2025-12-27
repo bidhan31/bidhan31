@@ -8,7 +8,7 @@
 
 ---
  
-###  I have joined as a Frontend Developer, at Bitopia Group's Softvence Agency.  
+###  I am currently looking for an internship and a job..  
 
 ---
 
