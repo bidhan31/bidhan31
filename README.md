@@ -13,7 +13,7 @@ Computer Science Graduate • Web Developer • Frontend Developer • SQA Engin
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Laravel+Developer;Frontend+Developer;Computer+Science+Student;Always+Learning+New+Technologies;Open+to+Internships+and+Job+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Developer;Computer+Science+Graduate;SQA Engineer;Always+Learning+New+Technologies;Open+to+Internships+and+Job+Opportunities" />
 </p>
 
 <p align="center">
